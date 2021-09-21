@@ -14,7 +14,8 @@ This is a Simple User Registration & Login systems app done with Node.js Framewo
 
 ## Getting Started
 
-
+video link:
+https://youtu.be/b5dTmp1kHkM
 
 ## Running the tests
 
