@@ -45,11 +45,11 @@ Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as t
 
 A Collection(**Users**) is populated with the user's credentials.
 
-<img src="./docs/userdb.PNG" height="300" width="720" style="border: 1px solid black;"><br><br>
+
 
 A Collection(**session**) is created which stores the users Logged session.
 
-<img src="./docs/sessiondb.PNG" height="300" width="720" style="border: 1px solid black;">
+
 <br>
 <br>
 <br>
